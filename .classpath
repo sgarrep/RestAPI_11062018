@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sgarr_000/Documents/GitHub/SrikarGarrepally/RestAPI_Automation_ZYCUS/RestAPI/Jars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgarr_000/Documents/GitHub/SrikarGarrepally/RestAPI_Automation_ZYCUS/RestAPI/Jars/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgarr_000/Documents/GitHub/SrikarGarrepally/RestAPI_Automation_ZYCUS/RestAPI/Jars/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgarr_000/Documents/GitHub/SrikarGarrepally/RestAPI_Automation_ZYCUS/RestAPI/Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgarr_000/Documents/GitHub/SrikarGarrepally/RestAPI_Automation_ZYCUS/RestAPI/Jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgarr_000/Documents/GitHub/SrikarGarrepally/RestAPI_Automation_ZYCUS/RestAPI/Jars/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgarr_000/Documents/GitHub/SrikarGarrepally/RestAPI_Automation_ZYCUS/RestAPI/Jars/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgarr_000/Documents/GitHub/SrikarGarrepally/RestAPI_Automation_ZYCUS/RestAPI/Jars/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgarr_000/Documents/GitHub/SrikarGarrepally/RestAPI_Automation_ZYCUS/RestAPI/Jars/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgarr_000/Documents/GitHub/SrikarGarrepally/RestAPI_Automation_ZYCUS/RestAPI/Jars/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgarr_000/Documents/GitHub/SrikarGarrepally/RestAPI_Automation_ZYCUS/RestAPI/Jars/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgarr_000/Documents/GitHub/SrikarGarrepally/RestAPI_Automation_ZYCUS/RestAPI/Jars/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgarr_000/Documents/GitHub/SrikarGarrepally/RestAPI_Automation_ZYCUS/RestAPI/Jars/testng-xslt-plugin-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgarr_000/Documents/GitHub/SrikarGarrepally/RestAPI_Automation_ZYCUS/RestAPI/Jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
